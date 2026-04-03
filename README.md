@@ -33,7 +33,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🔨 Build the Project
+## Build the Project
 
 Run the following command:
 
@@ -78,7 +78,7 @@ BUILD SUCCESS
 
 
 
-## 🗄️ Database
+##  Database
 
 * **Type:** H2 (In-Memory)
 * No installation required
