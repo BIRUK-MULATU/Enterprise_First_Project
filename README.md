@@ -45,7 +45,7 @@ mvn clean package -DskipTests
 
 ## Run the Application
 
-### Option 1: Using IntelliJ IDEA
+### 1: Using IntelliJ IDEA
 
 1. Open the project in IntelliJ IDEA
 2. Locate `ShopWaveApplication.java`
