@@ -1,4 +1,4 @@
-# ShopWave Starter — SE 4801 Assignment 1
+# Enterprise Application Assignment 1
 
 ## Student Information
 
