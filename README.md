@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 **ShopWave Starter** is a RESTful API built using **Java 21** and **Spring Boot 3.x** for managing a simple product catalog.
 
