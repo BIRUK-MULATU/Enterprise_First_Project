@@ -6,7 +6,7 @@
 | ------------------ | -------------------------------------------- |
 | **Name**           | Biruk Mulatu                                 |
 | **Student Number** | ATE/9686/14                                  |
-| **Course**         | SE 4801 — Enterprise Application Development |
+| **Course**         | Enterprise Application Development |
 | **University**     | CTBE                                         |
 | **Department**     | Software Engineering                         |
 
