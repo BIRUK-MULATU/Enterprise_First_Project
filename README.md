@@ -10,7 +10,6 @@
 | **University**     | CTBE                                         |
 | **Department**     | Software Engineering                         |
 
----
 
 ## Project Overview
 
@@ -22,7 +21,6 @@ It demonstrates a full Spring Boot application architecture, including:
 
 The application uses an **H2 in-memory database**, so no external database setup is required.
 
----
 
 ## Prerequisites
 
@@ -31,7 +29,6 @@ Make sure you have the following installed:
 * Java 21
 * Maven
 
----
 
 ## Build the Project
 
@@ -41,7 +38,6 @@ Run the following command:
 mvn clean package -DskipTests
 ```
 
----
 
 ## Run the Application
 
